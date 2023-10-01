@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey there!
 
-<!--
-**ekangal/ekangal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="https://linkedin.com/in/ekangal"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+<a href="https://github.com/jasontaylordev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JasonTaylorDev&show_icons=true&theme=shades-of-purple&count_private=true" alt="JasonTaylorDev's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonTaylorDev&theme=shades-of-purple&layout=compact" 
+    alt="JasonTaylorDev GitHub Top Languages" />
+</a>
